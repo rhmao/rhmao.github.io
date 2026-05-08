@@ -68,7 +68,7 @@ For research discussions or collaboration inquiries, please contact me at [ruihu
 </ul>
 <br>
 
-### 🎤 Conference Presentations
+### 🎤 Conferences
 
 - Anne Abeillé, Barbara Hemforth, **Ruihua Mao**, Edward Gibson (2022). Acceptability of extraction out of English adjunct clauses: the role of topicalization. *the 35th Annual Conference on Human Sentence Processing*, UC Santa Cruz, US. [Poster Presentation].
 
