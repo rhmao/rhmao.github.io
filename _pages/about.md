@@ -15,8 +15,6 @@ I am **Ruihua Mao**, PhD in Linguistics from the [**Laboratoire de Linguistique 
 
 I am supervised by [**Dr. Anne Abeillé**](http://www.llf.cnrs.fr/fr/Gens/Abeille) (Université Paris Cité), [**Dr. Barbara Hemforth**](http://www.llf.cnrs.fr/fr/Gens/Hemforth) (CNRS, UPC), and [**Dr. Edward Gibson**](https://bcs.mit.edu/directory/edward-gibson) (MIT).  
 
-My PhD dissertation, titled *“Meaning-based Approaches to Locality Constraints: Extraction from English and Chinese Adjuncts and Subjects”*, was successfully defended on **October 13, 2025**.  
-
 In 2023, I spent a semester at the [**TedLab**](https://tedlab.mit.edu/) at MIT, where I conducted research on noisy channel processing in Mandarin Chinese.  
 
 Before moving to Paris, I studied and worked in **Hong Kong**, conducting research on: **Second language acquisition** (island constraints), **Experimental semantics** (quantifier scope in Mandarin Chinese), and **Developmental psychology** (executive functioning and reading comprehension). 
