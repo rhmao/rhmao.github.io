@@ -12,7 +12,8 @@ redirect_from:
 
 
 I am **Ruihua Mao**, PhD in Linguistics from the [**Laboratoire de Linguistique Formelle**](http://www.llf.cnrs.fr/fr), Université Paris Cité.  
-I am supervised by [**Dr. Anne Abeillé**](http://www.llf.cnrs.fr/fr/Gens/Abeille) (Université Paris Cité), [**Dr. Barbara Hemforth**](http://www.llf.cnrs.fr/fr/Gens/Hemforth) (CNRS, Université Paris Cité), and [**Dr. Edward Gibson**](https://bcs.mit.edu/directory/edward-gibson) (Massachusetts Institute of Technology).  
+
+I am supervised by [**Dr. Anne Abeillé**](http://www.llf.cnrs.fr/fr/Gens/Abeille) (Université Paris Cité), [**Dr. Barbara Hemforth**](http://www.llf.cnrs.fr/fr/Gens/Hemforth) (CNRS, UPC), and [**Dr. Edward Gibson**](https://bcs.mit.edu/directory/edward-gibson) (MIT).  
 
 My PhD dissertation, titled *“Meaning-based Approaches to Locality Constraints: Extraction from English and Chinese Adjuncts and Subjects”*, was successfully defended on **October 13, 2025**.  
 
@@ -51,12 +52,6 @@ Before moving to Paris, I studied and worked in **Hong Kong**, conducting resear
 
 For research discussions or collaboration inquiries, please contact me at [ruihua.mao@etu.u-paris.fr](mailto:ruihua.mao@etu.u-paris.fr) or [ruihuamauri@gmail.com](mailto:ruihuamauri@gmail.com).
 
-<div style="background-color: #f5f0e6; padding: 12px; border-radius: 8px; margin-top: 10px;">
-  <p style="color: brown; font-weight: bold; margin: 0;">
-    I am actively seeking postdoctoral, lecturer, or assistant professor positions in psycholinguistics or experimental linguistics.
-    If you know of any relevant opportunities, I would be very grateful to hear from you.
-  </p>
-</div>
 
 <br><br><br>
 
