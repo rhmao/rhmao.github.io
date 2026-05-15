@@ -64,7 +64,11 @@ For research discussions or collaboration inquiries, please contact me at [ruihu
 
 <li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025). How Strong are “Strong” Islands? Discourse constraints best explain long-distance extraction from English adjunct clauses. <em>Cognition</em> (Under Revision). <a href="https://drive.google.com/file/d/1c1BmYLJfVu70xcKtZvrq4Ln-xHAhFjNw/view?usp=share_link">[Manuscript]</a></li>
 
-<li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025). Extraction from subjects and objects in Chinese. (In preparation)</li>
+<li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025). Extraction from subjects and objects in Chinese. </li>
+
+<li><strong>Ruihua Mao</strong>,Ruxandra Ionescu, Barbara Hemforth (2026). What is Hiding behind a Foreign Accent?</li>
+
+
 </ul>
 <br>
 
