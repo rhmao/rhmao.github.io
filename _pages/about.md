@@ -48,7 +48,7 @@ Before moving to Paris, I studied and worked in **Hong Kong**, conducting resear
 
 ### Contact
 
-For research discussions or collaboration inquiries, please contact me at [ruihua.mao@etu.u-paris.fr](mailto:ruihua.mao@etu.u-paris.fr) or [ruihuamauri@gmail.com](mailto:ruihuamauri@gmail.com).
+For research discussions or collaboration inquiries, please contact me at [ruihuamauri@gmail.com](mailto:ruihuamauri@gmail.com).
 
 
 <br><br><br>
@@ -74,23 +74,23 @@ For research discussions or collaboration inquiries, please contact me at [ruihu
 
 ### 🎤 Conferences
 
-- Anne Abeillé, Barbara Hemforth, **Ruihua Mao**, Edward Gibson (2022). Acceptability of extraction out of English adjunct clauses: the role of topicalization. *the 35th Annual Conference on Human Sentence Processing*, UC Santa Cruz, US. [Poster Presentation].
+- Anne Abeillé, Barbara Hemforth, **Ruihua Mao**, Edward Gibson (2022). Acceptability of extraction out of English adjunct clauses: the role of topicalization. *the 35th Annual Conference on Human Sentence Processing*, UC Santa Cruz, US.
 
-- **Ruihua Mao**, Edward Gibson, Barbara Hemforth, Anne Abeillé (2022). Extraction out of Mandarin and English if-adjunct clauses: the role of topicalization. *the 28th Architectures and Mechanisms for Language Processing (AMLaP)*, University of York, UK. [Poster Presentation].
+- **Ruihua Mao**, Edward Gibson, Barbara Hemforth, Anne Abeillé (2022). Extraction out of Mandarin and English if-adjunct clauses: the role of topicalization. *the 28th Architectures and Mechanisms for Language Processing (AMLaP)*, University of York, UK. 
 
-- **Ruihua Mao** (2022). Testing extraction (out) of subjects and objects in Mandarin Relative Clauses. *Linguistic Evidence 2022*, Université Paris Cité, France. [Oral Talk].
+- **Ruihua Mao** (2022). Testing extraction (out) of subjects and objects in Mandarin Relative Clauses. *Linguistic Evidence 2022*, Université Paris Cité, France.
   
-- **Ruihua Mao**, Edward Gibson, Barbara Hemforth, Anne Abeillé (2022). Topicalization out of English and Mandarin if-clauses and that-clauses. *ExLing 2022 Paris conference*, Université Paris Cité, France. [Poster Presentation]
+- **Ruihua Mao**, Edward Gibson, Barbara Hemforth, Anne Abeillé (2022). Topicalization out of English and Mandarin if-clauses and that-clauses. *ExLing 2022 Paris conference*, Université Paris Cité, France.
 
-- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2023). An empirical investigation of Mandarin subject island. *the 29th Architectures and Mechanisms for Language Processing (AMLaP)*, Basque Center on Cognition, Brain and Language, Spain. [Poster].
+- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2023). An empirical investigation of Mandarin subject island. *the 29th Architectures and Mechanisms for Language Processing (AMLaP)*, Basque Center on Cognition, Brain and Language, Spain. 
   
-- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2023). Extraction out of Mandarin Clauses: Topic vs. Focus. *AMLaP Asia*, Chinese University of Hong Kong, Hong Kong.[Poster].
+- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2023). Extraction out of Mandarin Clauses: Topic vs. Focus. *AMLaP Asia*, Chinese University of Hong Kong, Hong Kong.
 
-- **Ruihua Mao**, Sihan Chen, Edward Gibson (2023). How do Mandarin Natives interpret implausible sentences. *AMLaP Asia*, Chinese University of Hong Kong, Hong Kong.[Poster].
+- **Ruihua Mao**, Sihan Chen, Edward Gibson (2023). How do Mandarin Natives interpret implausible sentences. *AMLaP Asia*, Chinese University of Hong Kong, Hong Kong.
   
-- **Ruihua Mao**, Sihan Chen, Edward Gibson (2023). How do Mandarin Natives interpret implausible sentences. *XL Workshop*, Laboratoire de Linguistique Formelle, Université Paris Cité.[Internal Presentation].
+- **Ruihua Mao**, Sihan Chen, Edward Gibson (2023). How do Mandarin Natives interpret implausible sentences. *XL Workshop*, Laboratoire de Linguistique Formelle, Université Paris Cité.
 
-- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2024). The Discourse Function Explains "Islands". *Proceedings of the 30th Architectures and Mechanisms for Language Processing (AMLaP)* [Poster].
+- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2024). The Discourse Function Explains "Islands". *Proceedings of the 30th Architectures and Mechanisms for Language Processing (AMLaP)* 
   
 
 <br><br><br>
