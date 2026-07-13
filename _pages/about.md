@@ -90,7 +90,7 @@ For research discussions or collaboration inquiries, please contact me at [ruihu
   
 - **Ruihua Mao**, Sihan Chen, Edward Gibson (2023). How do Mandarin Natives interpret implausible sentences. *XL Workshop*, Laboratoire de Linguistique Formelle, Université Paris Cité.
 
-- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2024). The Discourse Function Explains "Islands". *Proceedings of the 30th Architectures and Mechanisms for Language Processing (AMLaP)* 
+- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2024). The Discourse Function Explains "Islands". *Proceedings of the 30th Architectures and Mechanisms for Language Processing (AMLaP)*, The University of Edinburgh, UK
   
 
 <br><br><br>
