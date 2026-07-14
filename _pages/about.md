@@ -62,7 +62,7 @@ For research discussions or collaboration inquiries, please contact me at [ruihu
 <li><strong>Ruihua Mao</strong>, Sihan Chen, Edward Gibson (2024). Decoding the Implausible: Mandarin Sentence Interpretation through the Noisy Channel Model. <em>Memory and Cognition</em>.https://doi.org/10.3758/s13421-025-01774-1 <a href="https://rdcu.be/eJo50">[PDF]</a></li>
 
 
-<li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025). How Strong are “Strong” Islands? Discourse constraints best explain long-distance extraction from English adjunct clauses. <em>Cognition</em> (Under Revision). <a href="https://drive.google.com/file/d/1c1BmYLJfVu70xcKtZvrq4Ln-xHAhFjNw/view?usp=share_link">[Manuscript]</a></li>
+<li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025). How Strong are “Strong” Islands? Discourse constraints best explain long-distance extraction from English adjunct clauses. <em>Cognition</em> (Revised and Resubmitted). <a href="https://drive.google.com/file/d/1c1BmYLJfVu70xcKtZvrq4Ln-xHAhFjNw/view?usp=share_link">[Manuscript]</a></li>
 
 <li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025). Extraction from subjects and objects in Chinese. </li>
 
