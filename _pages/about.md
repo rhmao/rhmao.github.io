@@ -17,15 +17,13 @@ I am supervised by [**Dr. Anne Abeillé**](http://www.llf.cnrs.fr/fr/Gens/Abeill
 
 In 2023, I spent a semester at the [**TedLab**](https://tedlab.mit.edu/) at MIT, where I conducted research on noisy channel processing in Mandarin Chinese.  
 
-Before moving to Paris, I studied and worked in **Hong Kong**, conducting research on: **Second language acquisition** (island constraints), **Experimental semantics** (quantifier scope in Mandarin Chinese), and **Developmental psychology** (executive functioning and reading comprehension). 
-
 
 ### Research Interests
 
   
 - Psycholinguistics  
   
-- Experimental syntax
+- Experimental Linguistics
   
 - Information theory
   
