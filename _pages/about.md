@@ -11,7 +11,7 @@ redirect_from:
 <h2 id="about-me">About Me</h2>
 
 
-I am **Ruihua Mao**, a Postdoctoral fellow in the Department of Linguistics and Translation at City University of Hong Kong.
+I am **Ruihua Mao**, currently a Postdoctoral Fellow in the Department of Linguistics and Translation at City University of Hong Kong.
 
 I obtained my Ph.D. in Linguistics from the [**Laboratoire de Linguistique Formelle**](http://www.llf.cnrs.fr/fr), Université Paris Cité, supervised by [**Dr. Anne Abeillé**](http://www.llf.cnrs.fr/fr/Gens/Abeille) (Université Paris Cité), [**Dr. Barbara Hemforth**](http://www.llf.cnrs.fr/fr/Gens/Hemforth) (CNRS, UPC), and [**Dr. Edward Gibson**](https://bcs.mit.edu/directory/edward-gibson) (Massachusetts Institute of Technology).  
 
