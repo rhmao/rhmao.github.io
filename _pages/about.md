@@ -15,7 +15,7 @@ I am **Ruihua Mao**, a Postdoctoral fellow in the Department of Linguistics and 
 
 I obtained my Ph.D. in Linguistics from the [**Laboratoire de Linguistique Formelle**](http://www.llf.cnrs.fr/fr), Université Paris Cité, supervised by [**Dr. Anne Abeillé**](http://www.llf.cnrs.fr/fr/Gens/Abeille) (Université Paris Cité), [**Dr. Barbara Hemforth**](http://www.llf.cnrs.fr/fr/Gens/Hemforth) (CNRS, UPC), and [**Dr. Edward Gibson**](https://bcs.mit.edu/directory/edward-gibson) (MIT).  
 
-In 2023, I spent half a year at the [**TedLab**](https://tedlab.mit.edu/) at MIT, where I conducted research on noisy channel processing in Mandarin Chinese.  
+In 2023, I spent half a year at [**TedLab**](https://tedlab.mit.edu/) in MIT's Brain and Cognitive Sciences department, where I conducted research on noisy channel processing in Mandarin Chinese.  
 
 
 ### Research Interests
